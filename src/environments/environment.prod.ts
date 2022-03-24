@@ -1,4 +1,5 @@
 export const environment = {
   production: true,  
-  searchUrl: 'https://9p38dkgt03.execute-api.us-east-2.amazonaws.com/v1/search'
+  searchUrl: 'https://skilltrackeradminapi.westcentralus.azurecontainer.io/admin/search',
+  profileUrl: 'https://skilltrackerprofileapi.westcentralus.azurecontainer.io/api/profile'
 };
