@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  searchUrl: 'http://ec2-3-144-224-182.us-east-2.compute.amazonaws.com/api/admin/search'
+  searchUrl: 'https://skilltrackerprofileapi.westcentralus.azurecontainer.io/api/admin/search'
   // searchUrl: 'http://localhost:14082/api/Admin/search'
 };
 
